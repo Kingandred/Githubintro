@@ -8,3 +8,6 @@ Carrots
 Cereal
 Cucumbers
 Radishes
+watermelon
+chips
+grapes
