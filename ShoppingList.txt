@@ -9,5 +9,6 @@ Cereal
 Cucumbers
 Radishes
 watermelon
-chips
-grapes
+Chips
+Grapes
+Walnuts
